@@ -54,3 +54,7 @@ Random Forest was selected as the preferred model because of its ability to capt
 Supervised Machine Learning — Regression
 
 **Note:** Random Forest was selected based on the model comparison in the project presentation. Quantitative evaluation metrics can be added when the actual model results are available.
+
+### Dataset
+
+Source: https://www.kaggle.com/datasets/ironwolf437/laptop-price-dataset
