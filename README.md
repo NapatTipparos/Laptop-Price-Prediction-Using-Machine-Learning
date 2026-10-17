@@ -1,4 +1,3 @@
-# Laptop-Price-Prediction-Using-Machine-Learning
 # Laptop Price Prediction Using Machine Learning
 
 ## Introduction
