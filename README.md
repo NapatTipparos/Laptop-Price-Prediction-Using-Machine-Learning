@@ -57,4 +57,4 @@ Supervised Machine Learning — Regression
 
 ### Dataset
 
-Source: [Laptop Price Data — Kaggle]https://www.kaggle.com/datasets/ironwolf437/laptop-price-dataset
+Source: [Laptop Price Data — Kaggle](https://www.kaggle.com/datasets/ironwolf437/laptop-price-dataset)
